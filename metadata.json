@@ -1,0 +1,6 @@
+{
+  "name": "UNUEX",
+  "description": "UNUEX - Neo Cyberpunk 2050 Store & Futuristic Tech Showroom",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
